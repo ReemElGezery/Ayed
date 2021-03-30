@@ -1,0 +1,200 @@
+.img{
+background-color: seagreen;
+}
+.text{
+background-color: slateblue;
+}
+.classes.media{
+    position: relative;
+    right: 12em;
+}
+.makeStyles-root-1{
+    max-width: 70%;
+}
+
+.header{
+    color:#012637;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    height:3em;
+    width:14em !important;
+    border:2px solid #012637;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    position: relative;
+    left:16em !important;
+    margin-top: 1em;
+    
+}
+.buttonour{
+    color:#012637;
+    background-color:  #7aaec5 !important;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold !important;
+    height:3em;
+    width:15em;
+    border:1px solid #012637 !important;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    margin-top: 0.5em !important;
+    position: relative;
+    left:-30em;
+   
+}
+.button{
+    color:#012637;
+    background-color:  #7aaec5 !important;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    height:3em;
+    width:15em;
+    border:1px solid #012637 !important;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    margin-top: 0.5em !important;
+    position: relative;
+    left:2em;
+   
+}
+.headerall{
+    color: #012637;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    height:3em;
+    width:10em;
+    border:0px solid  #012637;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    position: relative;
+    left:22em;
+    background-color: #7aaec5;
+    
+}
+.button9{
+    color:#012637 !important;
+    background-color:  #7aaec5 !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder !important;
+    height:3em;
+    width:15em;
+    border:0.1em  solid #012637 !important;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    margin-top: 0.5em !important;
+    position: relative;
+    right:28em;
+   
+}
+.buttonint{
+    color:#012637 !important;
+    background-color:  #7aaec5 !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold!important;
+    height:3em;
+    width:15em;
+    border:0.06em  solid #012637 !important;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    margin-top: 0.5em !important;
+    position: relative;
+    right:-30em;
+   
+}
+.link{
+
+    color:#012637;
+}
+.header1{
+    color:#012637;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    height:3em;
+    width:50em !important;
+    border:4px solid #012637;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    position: relative;
+    left:3em !important;
+    margin-top: 1em;
+    
+}
+.background{
+    color:grey !important;
+}
+.newstyle{
+    max-Width: 80%;
+     position:relative;
+      margin-left:4em;
+      left:14em;
+      border:0.1em solid #012637 !important;
+      
+  }
+
+.imgstyle{
+    height: 300em !important;
+    width: 500em !important;
+}
+
+
+
+
+  @media only screen and (max-width: 414px){
+   
+    
+    .imgstyle{
+        width:400em;
+        height:200em;
+      }
+      .buttonour{
+       
+        font-size: small;
+        text-align: center;
+       
+        height:1em;
+        width:10em;
+        position: relative;
+        left:1em;
+        margin-bottom: 2em;
+       
+    }
+    .buttonint{
+       
+        font-size: small !important;
+        text-align: center;
+        height:1em;
+        width:14em;
+        position: relative;
+        left:2em;
+        margin-bottom: 2em;
+       
+    }
+    .headerall{
+        
+        font-size: large;
+        text-align: center;
+        height:2.5em;
+        width:19em;
+        border:0px solid  #012637;
+        border-radius: 6px;
+        padding-top: 0.6em;
+        position: relative;
+        left:3em;
+        
+    }
+
+
+  }
+

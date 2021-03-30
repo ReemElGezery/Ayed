@@ -1,0 +1,218 @@
+import React from 'react';
+import CardActions from '@material-ui/core/CardActions';
+import Button from '@material-ui/core/Button';
+import { useTranslation } from 'react-i18next';
+
+const Feed = () => {
+  const { t, i18n } = useTranslation();
+  return (
+
+    <div>
+      <h1 className="header5">{t('chicks.1')}</h1>
+
+      <CardActions>
+        <a href="./">
+          <Button className="button">
+            &#8920;{t('Back.1')}
+        </Button>
+        </a>
+      </CardActions>
+
+      <div classname="products">
+        <div className="flex-container">
+
+          <div classname="box">
+          <a href="/Equipment" >
+            <img
+              src="/images/chicks/1.jpg"
+              width="230em"
+              height="230em"
+              className="img "
+
+
+            />
+</a>
+            <p className="price">{t('Paddy.1')}</p>
+          </div>
+
+
+          <div classname="box">
+          <a href="/Equipment" >
+            <img
+              src="/images/chicks/2.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+</a>
+            <p className="price ">{t('Paddy.1')} </p>
+
+          </div>
+
+          <div classname="box">
+            <img
+              src="/images/chicks/3.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+            <p className="price">{t('Paddy.1')} </p>
+
+          </div>
+          <div classname="box">
+            <img
+              src="/images/chicks/4.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+            
+
+            <p className="price">{t('Paddy.1')} </p>
+
+          </div>
+          <div classname="box">
+
+            <img
+              src="/images/chicks/5 (1).jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+
+            <p className="price">{t('Paddy.1')} </p>
+          </div>
+
+
+
+
+
+        </div>
+
+        <br></br>
+        <div className="flex-container">
+
+          <div classname="box">
+            <img
+              src="/images/chicks/6.jpg"
+              width="230em"
+              height="230em"
+              className="img "
+
+
+            />
+
+            <p className="price">{t('Paddy.1')} </p>
+          </div>
+
+
+          <div classname="box">
+
+            <img
+              src="/images/chicks/7.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+            <p className="price ">{t('Paddy.1')} </p>
+
+          </div>
+
+          <div classname="box">
+            <img
+              src="/images/chicks/8.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+            <p className="price">{t('Paddy.1')} </p>
+
+          </div>
+          <div classname="box">
+            <img
+              src="/images/chicks/9.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+            <p className="price">{t('Paddy.1')} </p>
+
+          </div>
+          <div classname="box">
+
+            <img
+              src="/images/chicks/11 (2).jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+
+            <p className="price">{t('Nahy.1')} </p>
+          </div>
+
+
+
+
+
+        </div>
+        <br></br>
+        <div className="flex-container">
+
+          <div classname="box">
+            <img
+              src="/images/chicks/12 (2).jpg"
+              width="230em"
+              height="230em"
+              className="img "
+
+
+            />
+
+            <p className="price">{t('Nahy.1')} </p>
+          </div>
+
+
+          <div classname="box">
+
+            <img
+              src="/images/chicks/12.jpg"
+              width="230em"
+              height="230em"
+              className="img"
+
+            />
+
+            <p className="price ">{t('Nahy.1')} </p>
+
+          </div>
+
+
+
+        </div>
+
+
+
+
+</div>
+
+
+      </div>
+
+  );
+}
+
+export default Feed;

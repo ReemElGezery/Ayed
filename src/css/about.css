@@ -1,0 +1,365 @@
+.about{
+   
+    background-color: white !important;
+    /* position: "relative";
+    right:"20px"; */
+    height:5em;
+    width:25em;
+    
+}
+   
+h1{
+    color: #012637;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    height:2em;
+    width:10em;
+    border:0px solid  #012637;
+    border-radius: 6px;
+    
+   
+}
+.message{
+    background-color: #7aaec5;
+    height: 30em; 
+    width:60em;
+    position: relative;
+    left:12em;
+    border-radius: 5em;
+}
+.msgimg{
+    border-radius: 5em;
+    border:0.5em solid  #012637; 
+    position:relative;
+    right:"5em"
+    
+}
+  p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: medium;
+      font-weight: bold;
+  }
+  .button4{
+      border-radius: 4em;
+      background-color:  #012637;
+      color: oldlace;
+      width:"10em" !important;
+      height:"3em" !important;
+      position: relative;
+      right:0em ;
+      font-size: medium!important;
+      
+  }
+  text{
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: bolder;
+  }
+  .orgheader{
+    color:#012637;;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    height:3em;
+    width:16em !important;
+    border:0px solid  #012637;
+    border-radius: 6px;
+    padding-top: 0.8em;
+    position: relative;
+    left:20.5em !important;
+    margin-top: 1em;
+    background-color: #7aaec5;
+    
+  }
+  .orgheader1{
+   color:#012637;;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: x-large;
+   text-align: center;
+   font-weight: bolder;
+   height:3em;
+   width:16em !important;
+   border:0px solid  #012637;
+   border-radius: 6px;
+   padding-top: 0.8em;
+   position: relative;
+   left:19em !important;
+   margin-top: 1em;
+   background-color: #7aaec5;
+   
+ }
+
+
+
+
+  .title{
+    padding: 10px 16px;
+    margin-right:1000px;
+    border-bottom: 1px;
+    list-style-type: circle;
+    font-style: bold;
+    font-size: large;
+    background-color: #012637 ;
+    color:#012637;
+    border-radius: 5px;
+    position: relative;
+    left:24em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+
+}
+
+.title:hover{
+   box-shadow: 1px 3px 5px rgba(0,0,0,1);
+
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5em;
+    /* border:  solid #790505!important; */
+
+   
+  }
+  .header5{
+    color: #012637;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    height:3em;
+    width:20em;
+    border:0px solid  #012637;
+    border-radius: 6px;
+    padding-top: 0.6em;
+    position: relative;
+    left:18em;
+    background-color: #7aaec5;
+    
+}
+.img1{
+    border:0.2em solid #012637 ; 
+    border-radius: 2em;
+}
+.link{
+
+    color:#012637;
+}
+.aboutus1{
+    height: 20em;
+    width:80em;
+     border:0.15em solid #012637;
+     position:relative;
+     left:0em;
+     border-radius:0.3em;
+ }
+ 
+ .aboutus2{
+    height: 20em;
+    width:80em;
+     border:0.1em solid  #012637;
+     position:relative;
+     left:0em;
+     border-radius:0.3em;
+ }
+ .c1{
+    position:relative;
+    left:10em;
+
+ }
+ .c2{
+    position:relative;
+    left:14em;
+
+ }
+ .c3{
+    position:relative;
+    left:18em;
+
+ }
+ .c4{
+    position:relative;
+    left:32em;
+
+ }
+ .c5{
+    position:relative;
+    left:24em;
+
+ }
+ .c6{
+    position:relative;
+    left:26em;
+
+ }
+ .c8{
+    position:relative;
+    left:6em;
+
+ }
+ .c9{
+    position:relative;
+    left:8em;
+
+ }
+ .c10{
+    position:relative;
+    left:11em;
+
+ }
+ .titleg{
+   padding: 10px 16px !important;
+   margin-left:430px!important;
+   border-bottom: 1px!important;
+   list-style-type: circle!important;
+   font-style: bold!important;
+   font-size: large!important;
+   background-color: #7aaec5!important;
+   color:#012637!important;
+   border-radius: 5px!important;
+   width:20em!important;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   position: relative;
+  
+   
+   
+
+
+}
+.titleg:hover{
+  box-shadow: 1px 3px 5px #7aaec5;
+
+
+}
+ 
+ 
+ 
+ @media only screen and (max-width: 414px){
+    
+     .orgheader{
+       
+        position: relative;
+        left:5em !important;
+        font-size: medium;
+      
+        
+      }
+      .orgheader1{
+       
+         position: relative;
+         left:5em !important;
+         font-size: medium;
+       
+         
+       }
+      .title{
+        position: relative;
+        left:0em !important;
+        font-size: medium;
+        width: 0em !important;
+        height: 2.5em;
+
+      }
+      .aboutus1{
+        height: 20em;
+        width:30em;
+         position:relative;
+         left:0em;
+       
+     }
+     
+     .aboutus2{
+        height: 10em;
+        width:20em;
+         position:relative;
+         left:1em;
+         
+     }
+     .card{
+        position:relative;
+        right:2em;
+        border:0.2em solid  #012637;
+
+
+     }
+     .flex-container {
+        display: flex;
+        flex-direction: column;
+    
+      }
+      .header5{
+        position: relative;
+        left:5em !important;
+        font-size: medium;
+      
+        
+    }
+    .c1{
+        position:relative;
+        left:6em;
+    
+     }
+     .c2{
+        position:relative;
+        left:6em;
+    
+     }
+     .c3{
+        position:relative;
+        left:6em;
+    
+     }
+     .c4{
+        position:relative;
+        left:6em;
+    
+     }
+     .c5{
+        position:relative;
+        left:6em;
+    
+     }
+     .c6{
+        position:relative;
+        left:6em;
+    
+     }
+     .c8{
+        position:relative;
+        left:6em;
+    
+     }
+     .c9{
+        position:relative;
+        left:6em;
+    
+     }
+     .c10{
+        position:relative;
+        left:6em;
+    
+     }
+
+     .titleg{
+      margin-left:0px!important;
+     
+      
+      
+   
+   
+   }
+     
+    
+  
+  
+  }

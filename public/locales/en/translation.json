@@ -1,0 +1,782 @@
+{
+    "Home":{
+        "1":"Home"
+
+    },
+    "products":{
+        "1":"Products"
+
+    },
+    "News":{
+        "1":"News"
+
+    },
+    
+    "Gallery":{
+        "1":"Gallery"
+
+    },
+    "Videos":{
+        "1":"Videos"
+
+    },
+    "Forum":{
+        "1":"The Forum"
+
+    },
+    "Aboutus":{
+        "1":"About Us"
+
+    },
+    "Feedsec":{
+        "1":"Feed Sector"
+
+    },
+    "ChickenSec":{
+        "1":"Chicken Sector"
+
+    },
+    "EquipSec":{
+        "1":"Equipment Sector"
+
+    },
+    "Pharmasec":{
+        "1":"Pharmaceutical Sector"
+
+    },
+    "Cropsec":{
+        "1":"Crop Sector"
+
+    },
+
+    "Aboutg":{
+        "1":"About the group"
+
+    },
+    "Org":{
+        "1":"Organisational Structure"
+
+    },
+    "Purchase":{
+        "1":"Purchase order"
+
+    },
+    "Ffeedsub":{
+        "1":"First Feed Sub Sector"
+
+    },
+    "Sfeedsub":{
+        "1":"Secod Feed Sub Sector"
+
+    },
+    "Tfeedsub":{
+        "1":"Third Feed Sub Sector"
+
+    },
+
+    "Fchicksub":{
+        "1":"First Chicken Sub Sector"
+
+    },
+
+    "Schicksub":{
+        "1":"Second Chicken Sub Sector"
+
+    },
+    "Tchicksub":{
+        "1":"Third Chicken Sub Sector"
+
+    },
+    "Fequipsub":{
+        "1":"First Equipment Sub Sector"
+
+    },
+
+    "Sequipsub":{
+        "1":"Second Equipment Sub Sector"
+
+    },
+    "Tequipsub":{
+        "1":"Third Equipment Sub Sector"
+
+    },
+    "Fpharmasub":{
+        "1":"First Pharmaceutical Sub Sector"
+
+    },
+
+    "Spharmasub":{
+        "1":"Second Pharmaceutical Sub Sector"
+
+    },
+    "Tpharmasub":{
+        "1":"Third Pharmaceutical Sub Sector"
+
+    },
+
+    "Fcropsub":{
+        "1":"First Crop Sub Sector"
+
+    },
+
+    "Scropsub":{
+        "1":"Second Crop Sub Sector"
+
+    },
+    "Tcropsub":{
+        "1":"Third Crop Sub Sector"
+
+    },
+    "Ffeedsec":{
+        "1":"First Feed Sector"
+
+    },
+    "Sfeedsec":{
+        "1":"Secod Feed Sector"
+
+    },
+    "Tfeedsec":{
+        "1":"Third Feed Sector"
+
+    },
+
+    "Fchicksec":{
+        "1":"First Chicken Sector"
+
+    },
+
+    "Schicksec":{
+        "1":"Second Chicken Sector"
+
+    },
+    "Tchicksec":{
+        "1":"Third Chicken Sector"
+
+    },
+    "Fequipsec":{
+        "1":"First Equipment Sector"
+
+    },
+
+    "Sequipsec":{
+        "1":"Second Equipment Sector"
+
+    },
+    "Tequipsec":{
+        "1":"Third Equipment Sector"
+
+    },
+    "Fpharmasec":{
+        "1":"First Pharmaceutical Sector"
+
+    },
+
+    "Spharmasec":{
+        "1":"Second Pharmaceutical Sector"
+
+    },
+    "Tpharmasec":{
+        "1":"Third Pharmaceutical Sector"
+
+    },
+
+    "Fcropsec":{
+        "1":"First Crop Sector"
+
+    },
+
+    "Scropsec":{
+        "1":"Second Crop Sector"
+
+    },
+    "Tcropsec":{
+        "1":"Third Crop Sector"
+
+    },
+    "Back":{
+        "1":"back"
+
+    },
+    "Pharmap1":{
+        "1":"Pharmaceutical product 1"
+
+    },
+    "Pharmap2":{
+        "1":"Pharmaceutical product 2"
+
+    },
+
+
+    "Pharmap3":{
+        "1":"Pharmaceutical product 3"
+
+    },
+    "feedp1":{
+        "1":"Granulated feed reception 24% protein (150 gm / chick)"
+
+    },
+    "feedp2":{
+        "1":"Granular feed paddy 23% protein (350 gm / chick)"
+
+    },
+
+
+    "feedp3":{
+        "1":"First growing granulated feed 21.5% protein (600g / chick)"
+
+    },
+    "feedp4":{
+        "1":"Second growing granulated feed 20.5% protein (900 gm / chick)"
+
+    },
+    "feedp5":{
+        "1":"Fine granulated feed 19% protein (1250 g / chick)"
+
+    },
+    "Sfeedp1":{
+        "1":"Puddy duck feed with 21% protein"
+
+    },
+    "Sfeedp2":{
+        "1":"Growing duck feed is granulated with 18% protein"
+
+    },
+    "Tfeedp1":{
+        "1":"Product Feed 3"
+
+    },
+    "chickp1":{
+        "1":"Chicken Product 1"
+
+    },
+    "chickp2":{
+        "1":"Chicken Product 2"
+
+    },
+    "chickp3":{
+        "1":"Crop Product 3"
+
+    },
+    "cropp1":{
+        "1":"Crop Product 1"
+
+    },
+    "cropp2":{
+        "1":"Crop Product 2"
+
+    },
+    "cropp3":{
+        "1":"Crop Product 3"
+
+    },
+    "equipp1":{
+        "1":"Equipment Product 1"
+
+    },
+    "equipp2":{
+        "1":"Equipment Product 2"
+
+    },
+    "equipp3":{
+        "1":"Equipment Product 3"
+
+    },
+    "chicks":{
+        "1":"Chicks"
+
+    },
+    "poultry":{
+        "1":"poultry"
+
+    },
+    "livestock":{
+        "1":"livestock"
+
+    },
+    "feed":{
+        "1":"feed"
+
+    },
+    "equipment":{
+        "1":"Equipment"
+
+    },
+    "Groupproducts":{
+        "1":" Group Products"
+
+    },
+    "Contactus":{
+        "1":"Contact Us"
+
+    },
+    "Paddy":{
+        "1":"Paddy Chicken"
+
+    },
+    "Nahy":{
+        "1":"Nahy Chicken"
+
+    },
+    "ducksfeed":{
+        "1":"Ducks Feed"
+
+    },
+    "chickenfeed":{
+        "1":"Chicken Feed"
+
+    },
+    "livestockfeed":{
+        "1":"Livestock Feed"
+
+    },
+    "Equipmentforum":{
+        "1":"Equipment Forum"
+
+    },
+
+    "Equipmentforum2":{
+        "1":" We in this forum launching the latest types of equipment to experience and learn about the benefits and disadvantages which will benefit Alyulkipah production in Egypt and is working to increase domestic production"
+
+    },
+
+    "Feedforum":{
+        "1":"Feed Forum"
+
+    },
+    "Feedforum2":{
+        "1":" We in this forum offering the best forage species and consultation around and get to know their benefits and their negative effects to the benefit of livestock in Egypt and is working to increase domestic production"
+
+    },
+   
+    "Pharmaceuticalforum":{
+        "1":"Pharmaceutical Forum"
+
+    },
+    
+    "Pharmaceuticalforum2":{
+        "1":"In this forum launching the latest veterinary medicines to experience and learn about its benefits and its negative effects, which will be beneficial to livestock in Egypt and is working to increase domestic production"
+
+    },
+    "Management":{
+        "1":"Management"
+
+    },
+    "Aboutchicken":{
+        "1":"Chicken Sector"
+
+    },
+    "Aboutfeed":{
+        "1":"Marketing Sector"
+
+    },
+    "Aboutpharma":{
+        "1":"Pharmaceutical Sector"
+
+    },
+    "Aboutcrop":{
+        "1":"Crop Sector"
+
+    },
+    "Aboutequip":{
+        "1":"Equipment Sector"
+
+    },
+    "Resume":{
+        "1":"Resume"
+
+    },
+    "Essa":{
+        "1":"Ahmed Ali Essa"
+
+    },
+    "Gawad":{
+        "1":"Abd el Gawad Esmail Ayed"
+
+    },
+    "Attia":{
+        "1":"Attia ElShabrakheety"
+
+    },
+    "Essa2":{
+        "1":"Chairman of Board of Directors"
+
+    },
+    "Gawad2":{
+        "1":"Office boss of the generel manager"
+
+    },
+    "Attia2":{
+        "1":"General Manager of the company"
+
+    },
+    "Samy":{
+        "1":"Eng Samy Ayed"
+
+    },
+    "Khataby":{
+        "1":"Ahmed el Khataby"
+
+    },
+    "Fayed":{
+        "1":"Ashraf Fayed"
+
+    },
+    "Samy2":{
+        "1":"Chairman of Board of Directors"
+
+    },
+    "Khataby2":{
+        "1":"Office boss of the generel manager"
+
+    },
+    "Fayed2":{
+        "1":"General Manager of the company"
+
+    },
+    "Moetz":{
+        "1":"Moetz Ahmed shneshn"
+
+    },
+    "Eed":{
+        "1":"ElSayed Eed Ayed"
+
+    },
+    "Sadik":{
+        "1":"ElSayed Sadik"
+
+    },
+    "Moetz2":{
+        "1":"chicks sector manager"
+
+    },
+    "Eed2":{
+        "1":"Pharmaceutical sector manager"
+
+    },
+    "Sadik2":{
+        "1":"construction management"
+
+    },
+    "Magdy":{
+        "1":"Eslam Magdy Ayed"
+
+    },
+    "Zakaria":{
+        "1":"Zakaria Gad"
+
+    },
+    "Zaidan":{
+        "1":"Mohamed Zaidan"
+
+    },
+    "Magdy2":{
+        "1":"Mainetanance manager"
+
+    },
+    "Zakria2":{
+        "1":"Pharmaceutical sector manager"
+
+    },
+    "Zaidan2":{
+        "1":"construction management"
+
+    },
+    "Aboutthegroup":{
+        "1":"About the group"
+
+    },
+    "Message":{
+        "1":"Message from the Chairman"
+
+    },
+    "Message2":{
+        "1":"Samy Ayed Group derives its strength from a group experience and ambitious employees at the leadership level or the individual and our group is one family trained and sophisticated and able to change, making it unable to keep up with the times demands Samy Ayed Group derives its strength from a group experience and ambitious employees at the leadership level or the individual and our group is one family trained and sophisticated and able to change, making it unable to keep up with the times demands"
+
+    },
+    "About2":{
+        "1":"Our approach is honesty in dealing and quality of product and innovation in the industry, one of the most important foundations of the working group’s key principle that governs the work of the group is a commitment to total quality standards We put before our eyes a future vision seeks to achieve, according to the distinctive capabilities that we have"
+
+    },
+    "Click":{
+        "1":"To download company profiles Click here"
+    },
+    "Ournew":{
+        "1":"Our News"
+    },
+    "International":{
+        "1":"International News"
+    },
+    "All":{
+        "1":"All News"
+    },
+    "new1":{
+        "1":"Mohamed El-Shorbagy to meet Gregory Gaultier in El-Gouna Squash Open final "
+    },
+
+    "new12":{
+        "1":"Mohamed El-Shorbagy to meet Gregory Gaultier in El-Gouna Squash Open final – Daily News Egypt squash – The semifinals in the El-Gouna Squash Open concluded on Thursday المصدر : […]"
+    },
+    "new13":{
+        "1":"El Gouna Squash International – Mosaad was the runner-up in the 2015 PSA Men’s World Squash Championship, and won the 2016 National Squash Championship."
+    },
+    "More":{
+        "1":"Learn More"
+    },
+    "Date":{
+        "1":"Date"
+    },
+    "new2":{
+        "1":"El Gouna Squash International: Interview with Egyptian squash champion Omar Mosaad "
+    },
+
+    "new21":{
+        "1":" El Gouna Squash International: Interview with Egyptian squash champion Omar Mosaad – Daily News Egypt El Gouna Squash International – Mosaad was the runner-up in the 2015 PSA Men’s […]"
+    },
+    "new23":{
+        "1":"Gouna Squash International – Mosaad was the runner-up in the 2015 PSA Men’s World Squash Championship, and won the 2016 National Squash Championship."
+    },
+
+    "new3":{
+        "1":" World Cup could feature 40 teams by 2026 – Daily News Egypt"
+    },
+
+    "new31":{
+        "1":"  World Cup could feature 40 teams by 2026 – Daily News Egypt World Cup – The World Cup could be expanded to 40 teams by 2026 with FIFA set […]"
+    },
+    "new33":{
+        "1":"World Cup – The World Cup could be expanded to 40 teams by 2026 with FIFA set to make a decision on the potential new format later this year. A World Cup has never featured more than 32 teams."
+    },
+
+    "new4":{
+        "1":" New breeds of ducks"
+    },
+
+    "new41":{
+        "1":"  There we have the best animal feed types for broiler cattle of different kinds we have the best animal feed types for broiler and cattle of different kinds we have […]"
+    },
+    "new43":{
+        "1":"There we have the best animal feed types for broiler cattle of different kinds we have the best animal feed types for broiler and cattle of different kinds we have the best animal feed types for broiler and cattle of different kinds we have the best animal feed types for broiler and cattle of different kinds we have the best animal feed types for broiler and cattle of different kinds There we have the best types of animal feed for broiler and cattle of different kinds"
+    },
+
+    "new5":{
+        "1":" Better forage species"
+    },
+
+
+    "new6":{
+        "1":" Create a new factory"
+    },
+
+    
+    "new7":{
+        "1":" K5 Note is a new smartphone in the Egyptian market"
+    },
+
+    "new71":{
+        "1":" K5 Note, a new smartphone in the Egyptian market Lenovo, the global company specializing in the manufacture of personal computers, announced the launch of its new smartphone, the K5 Note, in Egypt. Source: www.masrawy.com/News/Tech-Electronics/details/2016/5/16/ 827556 ​​/ k5-note-smart-phone-new-in-market-egypt […]"
+    },
+    "new73":{
+        "1":"K5 Note, a new smartphone in the Egyptian market Lenovo, the global company specializing in the manufacture of personal computers, announced the launch of its new smartphone, the K5 Note, in Egypt. Source: www.masrawy.com/News/Tech-Electronics/details/2016/5/16/ 827556 ​​/ k5-note-smart-phone-new-in-market-egypt "
+    },
+
+    "new8":{
+        "1":"Surprise ... cancellation of Congo's friendly, Jabaliya will be fined $ 70,000"
+    },
+
+    "new81":{
+        "1":" Surprise .. Canceling Congo's friendly, Jabaliya will be fined $ 70,000 In a new surprise, an official source with the Football Association revealed that if an official decision is taken to cancel the first national team friendly match[…]"
+    },
+    "new83":{
+        "1":"Surprise .. Canceling Congo's friendly, Jabaliya will be fined $ 70,000 In a new surprise, an official source with the Football Association revealed that if an official decision is taken to cancel the first national team friendly match "
+
+    },
+
+    "new9":{
+        "1":"Poultry egg prices"
+    },
+
+    "new10":{
+        "1":"Learn about the foods that protect from depression"
+    },
+
+    "new101":{
+        "1":" One of the most important factors that affect the general health of our bodies is the foods that we eat daily. A healthy diet not only prevents physical diseases, but also maintains weight[…]"
+    },
+    "new103":{
+        "1":"One of the most important factors that affect the general health of our bodies is the foods that we eat daily. A healthy diet not only prevents physical diseases, but also maintains weight "
+
+    },
+
+    "opening":{
+        "1":"Opening"
+
+    },
+    "events":{
+        "1":"Events"
+
+    },
+    "team":{
+        "1":"Team"
+
+    },
+    "labs":{
+        "1":"Labs"
+
+    },
+    "video":{
+        "1":"Videos"
+
+    },
+    "name":{
+        "1":"Enter your name"
+
+    },
+    "email":{
+        "1":"Enter your email"
+
+    },
+    "subject":{
+        "1":"Enter your subject"
+
+    },
+    "message":{
+        "1":"Enter your message"
+
+    },
+    "submit":{
+        "1":"Submit"
+
+    },
+    "social":{
+        "1":"Social Media"
+
+    },
+    "services":{
+        "1":"Services"
+
+    },
+    "groupstock":{
+        "1":"Group Stock"
+
+    },
+
+    "s1":{
+        "1":"Feed prices are on Monday 25/1/2021"
+    },
+    "s2":{
+        "1":"Super granulated feed 24% protein 8300 EGP"
+   
+
+    },
+    "s3":{
+        "1":"Super puddy granulated feed crushed 23% protein 8100 g"
+
+    },
+    "s4":{
+        "1":" Second super grown pellet feed 20.5% protein 8000 EGP"
+
+    },
+    "s5":{
+        "1":" Super fine granulated feed 19% protein 7900 g "
+
+    },
+    "s6":{
+        "1":"Super Baladi feed (paddy) 21% protein 7600 EGP "
+
+    },
+    "s7":{
+        "1":" Super Baladi Feed (Grown Nahi) 18% protein 7400 EGP "
+
+    },
+    "s8":{
+        "1":" Paddy egg feed 21% protein from (1-4) weeks 7600 LE  "
+
+    },
+    "s9":{
+        "1":"Layer grow fodder 18% from (5-8) weeks 7100 EGP "
+
+    },
+    "s10":{
+        "1":"Layer feed for development 15.5% from (9-17) a week 6600 EGP "
+
+    },
+    "s11":{
+        "1":"Preparatory egg feed 17% from (18-21) weeks 6900 EGP"   
+        
+
+    },
+    "s12":{
+        "1":"Layer fodder first production 18% from (22-28) a week 7000 EGP "
+
+    },
+    "s13":{
+        "1":"Second productive layer feed 17% from (29-45) a week 6700 EGP"
+
+    },
+    "s14":{
+        "1":" Third productive layer fodder 16% from (46-65) for a week 6600 LE"
+
+    },
+    "s15":{
+        "1":" Fourth productive layer fodder 15.5% over 65 weeks of 6400 EGP "
+
+    },
+    "s16":{
+        "1":"Layer fodder 14% (packed) 6400 EGP "
+
+    },
+    "s17":{
+        "1":"  Layer feed 18%, the selling phase 7200 LE "
+
+    },
+    "s18":{
+        "1":"Fattening Duck Feed 21% from (1-4) week 7600 EGP "
+
+    },
+    "s19":{
+        "1":"Growing fattening duck feed 18% of (5-….) A week 7300 LE "
+
+    },
+    "s20":{
+        "1":" Cattle Feed 19% (Macbous) Hallab 6150 EGP  "
+
+    },
+    "s21":{
+        "1":"Livestock feed 16% (Macbous) Hallab 5900 EGP "
+
+    },
+    "s22":{
+        "1":" Cattle feed 18% (packed), fattening (less than 250 kg) 6050 EGP "
+
+    },
+    "s23":{
+        "1":" Cattle fodder 16% (makbous) fattening (from 250 K - 350 K) 5900 LE "
+
+    },
+
+    "s24":{
+        "1":"Layer feed 18%, the selling phase 7200 LE  "
+
+    },
+
+    "s25":{
+        "1":"Fourth productive layer fodder 15.5% over 65 weeks of 6400 EGP  "
+
+    },
+
+    "s26":{
+        "1":"Duck Meat one kilo 30 L.E ..............6 Chicken Meat one kilo 20 L.E ............. Animal Feed one kilo 20 L.E ..............Beef Meat one kilo 85 L.E.............. Veal Meat one kilo 80 L.E....................... "
+
+    }
+
+    
+
+
+  
+
+
+
+
+
+
+}

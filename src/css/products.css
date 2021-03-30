@@ -1,0 +1,99 @@
+.title{
+    padding: 10px 16px !important;
+    margin-right:1000px!important;
+    border-bottom: 1px!important;
+    list-style-type: circle!important;
+    font-style: bold!important;
+    font-size: large!important;
+    background-color: #7aaec5!important;
+    color:#012637!important;
+    border-radius: 5px!important;
+    width:20em!important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+
+}
+.title:hover{
+   box-shadow: 1px 3px 5px #7aaec5;
+
+
+}
+
+body{
+    /* background-image: url("/images/farm2.png"); */
+   
+}
+
+.intro{
+    font-family: Arial;
+    font-size: x-large;
+    font-weight: bold;
+    color:#7aaec5
+    
+}
+.title4{
+       
+    font-style: bolder;
+    margin-top: 1em;
+    padding-top:13px;
+    font-size:x-large;
+    border-radius: 6px;
+    height: 3em;
+    width:14em;
+    text-align: center;
+    align-content: center;
+    position: relative;
+    left:20em;
+    border:0em solid #012637;
+    color:#012637;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    background-color: #7aaec5;
+}
+.choose{
+position: absolute;
+left: 0em;
+ bottom:-30em;
+ width: 37%;
+}
+.choose1{
+    position: absolute;
+    left: 2em;
+     bottom:8em;
+     width: 37%;
+    }
+@media only screen and (max-width: 414px){
+
+
+    .title4{
+       
+        
+        font-size:medium;
+        height: 3em;
+        width:14em;
+        position: relative;
+        left:6em;
+        border:0em solid #012637;
+        color:#012637;
+        
+    }
+
+    .choose{
+        position: absolute;
+        left: 0em;
+         bottom:0em;
+         width: 37%;
+        }
+
+        .choose1{
+            position: absolute;
+            left: 0em;
+             bottom:16em;
+             width: 37%;
+            }
+
+
+            
+        }
+
